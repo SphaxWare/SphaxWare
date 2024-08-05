@@ -5,7 +5,6 @@
 
 - 🌍  I'm based in Casablanca
 - 🚀  I'm currently working on [many projects](http://github.com/SphaxWare?tab=repositories)
-- 🧠  I'm learning C
 - 🤝  I'm open to collaborating on Projects
 - ⚡  I'm also making games using Unity
 
